@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NestedLoop13",
+            "request": "launch",
+            "mainClass": "NestedLoop13",
+            "projectName": "daspro-jobsheet11_143d8acf"
+        },
+        {
+            "type": "java",
+            "name": "Quiz13",
+            "request": "launch",
+            "mainClass": "Quiz13",
+            "projectName": "daspro-jobsheet11_143d8acf"
+        },
+        {
+            "type": "java",
+            "name": "Triangle13",
+            "request": "launch",
+            "mainClass": "Triangle13",
+            "projectName": "daspro-jobsheet11_143d8acf"
+        },
+        {
+            "type": "java",
+            "name": "Square13",
+            "request": "launch",
+            "mainClass": "Square13",
+            "projectName": "daspro-jobsheet11_143d8acf"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Star13",
+            "request": "launch",
+            "mainClass": "Star13",
+            "projectName": "daspro-jobsheet11_143d8acf"
+        }
+    ]
+}
